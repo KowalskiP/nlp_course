@@ -81,3 +81,7 @@ debian/files
 week1_embeddings/cc.ru.300.vec
 week1_embeddings/cc.uk.300.vec
 week1_embeddings/quora.txt
+
+week2_classification/Train_rev1\.csv
+
+week2_classification/Train_rev1\.csv\.tar\.gz
