@@ -85,3 +85,7 @@ week1_embeddings/quora.txt
 week2_classification/Train_rev1\.csv
 
 week2_classification/Train_rev1\.csv\.tar\.gz
+
+week3_lm/arxivData\.json\.tar\.gz
+
+week3_lm/arxivData\.json
